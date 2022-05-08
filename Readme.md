@@ -1,4 +1,4 @@
-#EnhancedTaskManager
+EnhancedTaskManager
 
 I have done this application in Spring, in order to use Spring Data to connect and work with database.
 As for database, I am using mySql deployed in a Docker container.
